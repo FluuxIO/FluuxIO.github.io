@@ -1,6 +1,4 @@
-# FluuxIO.github.io
-
-The Github pages for Fluux.io is used to serve Go projects under vanity domain *gosrc.io*.
+# Fluux.io Go projets and libraries
 
 ## Currently hosting
 
